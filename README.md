@@ -13,10 +13,11 @@
 * 其他按键: 和普通遥控器一样
 ### 缺少功能
 长按Home按键调出最近运行的程序功能
-### 参考
-支持的遥控器的图片实拍
+### 遥控器硬件参考
 ![image](https://user-images.githubusercontent.com/12047708/226825780-cf6d786d-3de4-41d6-8718-eae18760ee49.png)
 ### 截图效果
 安卓网络遥控器截图
 ![5f373b6ec2fbf77e43878eaa0bc33b2](https://user-images.githubusercontent.com/12047708/226826080-d31a4778-8a15-408b-b61b-0a3624912bf8.jpg)
 
+### 鼠标键使用截图
+![46f9483d726d92cb564247b65a10d5d](https://user-images.githubusercontent.com/12047708/232201838-29a708c9-ebb8-4adf-abf7-0fa9688395cb.png)
